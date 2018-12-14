@@ -1,0 +1,9 @@
+This is a gif test file
+Why test this ? Shit ! 
+Add a line !
+Add a line again ! 
+Git change to stage £¡
+Git test change no add?!!!!
+
+This is for push to github!
+push again!
