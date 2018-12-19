@@ -7,3 +7,5 @@ add branch bug
 add bug£¡
 
 new bug branch £¡ÏÂÎçµÄ£¡
+
+new modify to master£¬need stash £¡
